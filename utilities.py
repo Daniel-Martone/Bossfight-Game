@@ -74,7 +74,7 @@ def menu():
             show_line()
             print('''Code/Game - Daniel Martone
 SoundTrack - Imagine Dragons, Halsey, $ina, M83
-Thanks to Gustavo Guanabara from CursoEmVideo for teaching me
+Thanks to Gustavo Guanabara from CursoEmVideo for teaching me.
 
 212 lines of code
 4   hours of work
